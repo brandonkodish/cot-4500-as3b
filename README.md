@@ -8,6 +8,7 @@ Scipy was not used.
 Numpy was used and is included in the requirements file. 
 
 My answers were:
+```
 Question 1: [ 1.5        -0.85714286  2.55555556]
 Question 2:
 
@@ -26,3 +27,4 @@ Question 3:
 Not diagonally dominant.
 Question 4:
 Positive definite.
+```
